@@ -54,7 +54,7 @@ A figma design of a cat shelter website in both desktop and mobile modes. It is 
 <img src="images/donation.png"/>
 
 <h6>Sidebar</h6>
-<img src="images/sidebars.png" height = 103.6 width = 100/>
+<img src="images/sidebars.png" width = 250/>
 
 
 ## Mobile Screens
