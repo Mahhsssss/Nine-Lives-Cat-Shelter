@@ -26,6 +26,7 @@ A figma design of a cat shelter website in both desktop and mobile modes. It is 
 ## Links
 
 * Click <a href = "https://www.figma.com/design/JHVkE5I2MypxY643q0hEn7/Nine-lives-cat-shelter?node-id=0-1&t=3hfKPfPfbCTT5XqY-1"> here </a> to visit my figma file and check out the working prototype
+* Or visit <a href = "https://mahhsssss.github.io/Nine-Lives-Cat-Shelter/"> my website </a> to see a website version of my design.
 
 ## Desktop Screens
 
